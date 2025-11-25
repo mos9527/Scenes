@@ -7,7 +7,7 @@ Textures, if not otherwise mentioned, are packed into the .blend files. You may 
 [Intel® GPU Research Samples - Sponza](https://github.com/mos9527/Scenes/releases/tag/intel-sponza)
 ---
 
-![Screenshot](intel-sponza/Sponza.png)
+![Screenshot](Sponza.png)
 
 **ATTENTION:** 3,094,896 vertices, 5,744,370 triangles.
 
