@@ -1,6 +1,6 @@
 Scenes
 ===
-Collection of various public domain 3D scenes authored in Blender 5.0+.
+Collection of various public domain 3D scenes authored in Blender 5.0+, in `.blend` and `.glb` format.
 
 Textures, if not otherwise mentioned, are packed into the .blend files. You may download any of these scenes in the [Releases](https://github.com/mos9527/Scenes/releases) section.
 
